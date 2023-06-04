@@ -1,7 +1,7 @@
-# RTES-Challenge
+# RTES-Challenge : Gesture based Lock/Unlock System
  Final Project for NYU Tandon EC-GY-6483 Real-Time Embedded Systems
 
-This project utilizes the integrated gyro sensor on the STM32F429 Discovery microcontroller to develop a mechanism that records and replicates a hand movement sequence for unlocking a resource. The recorded sequence is saved using a "Record Key" feature. Users replicate the sequence within specified tolerances to unlock the resource. Overall, the project meets requirements and provides a functional solution with an intuitive LCD display indicator.
+ This project utilizes the integrated gyro sensor on the STM32F429 Discovery microcontroller to develop a mechanism that records and replicates a hand movement sequence for unlocking a resource. The recorded sequence is saved using a "Record Key" feature. Users replicate the sequence within specified tolerances to unlock the resource. Overall, the project meets requirements and provides a functional solution with an intuitive LCD display indicator.
 
 ## How to Use:
 
@@ -20,6 +20,6 @@ This project utilizes the integrated gyro sensor on the STM32F429 Discovery micr
 
 ##  References:
 
-https://github.com/STMicroelectronics/STM32CubeF4
-https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/0/236/files/2016/09/IUI13-Combining-1hz6aya.pdf
-https://github.com/cjekel/DTW_cpp
+- https://github.com/STMicroelectronics/STM32CubeF4
+- https://bpb-us-w2.wpmucdn.com/sites.uwm.edu/dist/0/236/files/2016/09/IUI13-Combining-1hz6aya.pdf
+- https://github.com/cjekel/DTW_cpp
